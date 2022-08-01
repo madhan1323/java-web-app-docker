@@ -20,7 +20,6 @@ spec:
           containerPort: 8080  
 ---
 # Node Port Service
-# github
 apiVersion: v1
 kind: Service
 metadata:
